@@ -46,8 +46,7 @@
   .. chef/index
   .. puppet/index
 
-.. role:: raw-html(raw)
-   :format: html
+.. raw:: html
 
 <div class="jumbotron">
     <h2>Learn. Build. <i>Win.</i></h2>
@@ -65,6 +64,9 @@
         <p>A description of the lavish prizes that will drive people to blood, sweat, and tears to beat out their co-workers.</p>
     </div>
 </div>
+
+.. role:: raw-html(raw)
+   :format: html
 
 Get Started
 ===========
